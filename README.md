@@ -2,9 +2,13 @@
 
 # Flutter Todo App
 
-A todo application built using Flutter.
+A to-do application built using Flutter.
 
 ## Getting Started
+
+### Demo App
+https://ibb.co/R9Lz11T
+![](https://github.com/jahids/todo-flutter/blob/main/flutter.gif)
 
 ### Prerequisites
 
